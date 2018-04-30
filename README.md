@@ -12,6 +12,7 @@ For those interested in further tutorials or resources for spatial data analysis
 - the upcoming textbook [Geocomputation with R](http://robinlovelace.net/geocompr/)
 - the [vignettes](https://cran.r-project.org/web/packages/sf/) of the `sf` package
 - the [r-spatial blog & website](http://r-spatial.org/) for the latest news from the r-spatial community
+- [Applied Spatial Data Analysis with R](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf) (textbook on spatial data analysis)
 
 # Some Resources for Movement Ecology
 - [Movement Ecology in R workshop](http://danaseidel.com/MovEco-R-Workshop/) given at Hong Kong University in January 2018, is a brief overview walking students from R basics through home range analysis, analyzing GPS movement data, to spatial simulation in R. 
