@@ -1,5 +1,5 @@
-# rspatial-resources
-A list of useful resources for getting started with spatial data in R
+# R-Spatial Resources
+A list of useful resources for getting started with spatial data in R. Feel free to contribute through a pull request or issue!
 
 # General R Resources:  
 For those interested in further tutorials or resources for spatial data analysis and R more generally, please refer to:
@@ -14,6 +14,8 @@ For those interested in further tutorials or resources for spatial data analysis
 - the [r-spatial blog & website](http://r-spatial.org/) for the latest news from the r-spatial community
 - [Applied Spatial Data Analysis with R](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf) (textbook on spatial data analysis)
 
+# People to follow 
+
 # Some Resources for Movement Ecology
 - [Movement Ecology in R workshop](http://danaseidel.com/MovEco-R-Workshop/) given at Hong Kong University in January 2018, is a brief overview walking students from R basics through home range analysis, analyzing GPS movement data, to spatial simulation in R. 
 
@@ -23,3 +25,14 @@ For those interested in further tutorials or resources for spatial data analysis
 - [GeoStats: Kriging in R](http://rstudio-pubs-static.s3.amazonaws.com/80464_9156596afb2e4dcda53e3650a68df82a.html)
 - [SpatioTemporal Kriging in R](https://www.r-bloggers.com/spatio-temporal-kriging-in-r/)
 
+# Color palettes for maps
+
+- [ColorBrewer site](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) and [R package](http://earlglynn.github.io/RNotes/package/RColorBrewer/index.html)
+- [Wes Anderson](https://github.com/karthik/wesanderson) R package GitHub page
+- [Comprehensive list](https://github.com/EmilHvitfeldt/r-color-palettes) of color palettes available in R
+- [Viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) palettes
+
+# Designing maps in R
+
+- [Beautiful thematic maps with ggplot2 (only)](https://timogrossenbacher.ch/2016/12/beautiful-thematic-maps-with-ggplot2-only/) by Timo Grossenbacher (blog post)
+- [Making a beautiful map of Spain in ggplot2](http://blog.manugarri.com/making-a-beautiful-map-of-spain-in-ggplot2/) by Manuel Garrido (blog post)
