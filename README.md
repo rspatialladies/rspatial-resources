@@ -18,6 +18,11 @@ For those interested in further tutorials or resources for spatial data analysis
 - [Applied Spatial Data Analysis with R](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf) (textbook on spatial data analysis)
 - CRAN Task View: [Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)
 
+# Packages for mapping in R
+- [Leaflet](https://rstudio.github.io/leaflet/): R interface to leaflet maps
+- [Mapview](https://github.com/r-spatial/mapview): interactive viewing of spatial data in R
+- [tmap](https://github.com/mtennekes/tmap): thematic maps in R
+- [ggplot dev version::geom_sf()](http://ggplot2.tidyverse.org/reference/ggsf.html)--visualise sf objects
 
 # People to follow 
 
@@ -40,3 +45,9 @@ For those interested in further tutorials or resources for spatial data analysis
 
 - [Beautiful thematic maps with ggplot2 (only)](https://timogrossenbacher.ch/2016/12/beautiful-thematic-maps-with-ggplot2-only/) by Timo Grossenbacher (blog post)
 - [Making a beautiful map of Spain in ggplot2](http://blog.manugarri.com/making-a-beautiful-map-of-spain-in-ggplot2/) by Manuel Garrido (blog post)
+
+# Data sources
+- [tidycensus](https://github.com/walkerke/tidycensus): Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
+- [tigris](https://github.com/walkerke/tigris): Download and use Census TIGER/Line shapefiles in R
+- state/municipal geospatial commons (ex. [MN Geopatial Commons](https://gisdata.mn.gov/))
+- [GIS section of Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#gis)
