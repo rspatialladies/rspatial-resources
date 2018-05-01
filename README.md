@@ -6,13 +6,18 @@ For those interested in further tutorials or resources for spatial data analysis
 - The [R for DataScience](http://r4ds.had.co.nz/) book
 - [Rstudio Cheatsheets!](https://www.rstudio.com/resources/cheatsheets/) 
 - the [Tidyverse website/blog](https://www.tidyverse.org/articles/) for the latest news from the tidyverse
+- [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by Claus O. Wilke
 
 # General R-Spatial
 - Jamie Afflerbach's Spatial Analysis in R tutorials and [repo](https://github.com/jafflerbach/spatial-analysis-R)
+- Matt Strimas-Mackey's [blog](http://strimas.com/) for hands-on examples using new rspatial packages (e.g., sf and smoothr)
+- Jesse Sadler's [blog](https://www.jessesadler.com/) for applications of sf and sp
 - the upcoming textbook [Geocomputation with R](http://robinlovelace.net/geocompr/)
 - the [vignettes](https://cran.r-project.org/web/packages/sf/) of the `sf` package
 - the [r-spatial blog & website](http://r-spatial.org/) for the latest news from the r-spatial community
 - [Applied Spatial Data Analysis with R](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf) (textbook on spatial data analysis)
+- CRAN Task View: [Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)
+
 
 # People to follow 
 
@@ -26,7 +31,6 @@ For those interested in further tutorials or resources for spatial data analysis
 - [SpatioTemporal Kriging in R](https://www.r-bloggers.com/spatio-temporal-kriging-in-r/)
 
 # Color palettes for maps
-
 - [ColorBrewer site](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) and [R package](http://earlglynn.github.io/RNotes/package/RColorBrewer/index.html)
 - [Wes Anderson](https://github.com/karthik/wesanderson) R package GitHub page
 - [Comprehensive list](https://github.com/EmilHvitfeldt/r-color-palettes) of color palettes available in R
