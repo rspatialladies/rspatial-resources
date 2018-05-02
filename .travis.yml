@@ -1,0 +1,5 @@
+language: R
+sudo: true
+cache: packages
+sudo: required
+dist: trusty
