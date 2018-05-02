@@ -17,6 +17,7 @@ For those interested in further tutorials or resources for spatial data analysis
 - the [r-spatial blog & website](http://r-spatial.org/) for the latest news from the r-spatial community
 - [Applied Spatial Data Analysis with R](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf) (textbook on spatial data analysis)
 - CRAN Task View: [Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)
+- Edward Rubin's materials on [Spatial Data in R](http://edrub.in/ARE212/section12.html) from UC Berkeley's ARE 212 course
 
 # Packages for mapping in R
 - [Leaflet](https://rstudio.github.io/leaflet/): R interface to leaflet maps
