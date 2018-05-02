@@ -1,5 +1,6 @@
 language: R
-sudo: true
+sudo: false
 cache: packages
-sudo: required
-dist: trusty
+script: 
+#  - R -e "devtools::install(dep=TRUE)"
+  - R -e 'lapply(list.files(pattern=".*.Rmd", recursive=TRUE), rmarkdown::render)'
