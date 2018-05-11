@@ -45,9 +45,9 @@ For those interested in further tutorials or resources for spatial data analysis
 - [colorspace](https://cran.r-project.org/web/packages/colorspace/colorspace.pdf): Carries out mapping between assorted color spaces including RGB, HSV, HLS, CIEXYZ, CIELUV, HCL (polar CIELUV), CIELAB and polar CIELAB. Qualitative, sequential, and diverging color palettes based on HCL colors are provided along with an interactive palette picker (with either a Tcl/Tkor a shiny GUI).
 
 # Designing maps in R
-
 - [Beautiful thematic maps with ggplot2 (only)](https://timogrossenbacher.ch/2016/12/beautiful-thematic-maps-with-ggplot2-only/) by Timo Grossenbacher (blog post)
 - [Making a beautiful map of Spain in ggplot2](http://blog.manugarri.com/making-a-beautiful-map-of-spain-in-ggplot2/) by Manuel Garrido (blog post)
+- [Draw maps like paintings](https://statnmap.com/2018-04-18-draw-maps-like-paintings/) by Sébastien Rochette (blog post)
 
 # Data sources
 - [tidycensus](https://github.com/walkerke/tidycensus): Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R
