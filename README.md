@@ -18,6 +18,7 @@ For those interested in further tutorials or resources for spatial data analysis
 - [Applied Spatial Data Analysis with R](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf) (textbook on spatial data analysis)
 - CRAN Task View: [Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)
 - Edward Rubin's materials on [Spatial Data in R](http://edrub.in/ARE212/section12.html) from UC Berkeley's ARE 212 course
+- [Can geographic data save the world?](http://www.robinlovelace.net/2017/05/02/can-geographic-data-save-the-world/) by Robin Lovelace
 
 # Packages for mapping in R
 - [Leaflet](https://rstudio.github.io/leaflet/): R interface to leaflet maps
@@ -41,6 +42,7 @@ For those interested in further tutorials or resources for spatial data analysis
 - [Wes Anderson](https://github.com/karthik/wesanderson) R package GitHub page
 - [Comprehensive list](https://github.com/EmilHvitfeldt/r-color-palettes) of color palettes available in R
 - [Viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) palettes
+- [colorspace](https://cran.r-project.org/web/packages/colorspace/colorspace.pdf): Carries out mapping between assorted color spaces including RGB, HSV, HLS, CIEXYZ, CIELUV, HCL (polar CIELUV), CIELAB and polar CIELAB. Qualitative, sequential, and diverging color palettes based on HCL colors are provided along with an interactive palette picker (with either a Tcl/Tkor a shiny GUI).
 
 # Designing maps in R
 
