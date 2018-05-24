@@ -7,19 +7,18 @@ For those interested in further tutorials or resources for spatial data analysis
 - [Rstudio Cheatsheets!](https://www.rstudio.com/resources/cheatsheets/) 
 - the [Tidyverse website/blog](https://www.tidyverse.org/articles/) for the latest news from the tidyverse
 - [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by Claus O. Wilke
-- [United States Geological Survey R Tutorial](https://owi.usgs.gov/R/training-curriculum/intro-curriculum/)
-- [Software Carpentry Programming with R Tutorial](http://swcarpentry.github.io/r-novice-inflammation/)
-- [Software Carpentry R Programming for Reproducible Scientific Research](http://swcarpentry.github.io/r-novice-gapminder/)
+- [Introduction to R](https://owi.usgs.gov/R/training-curriculum/intro-curriculum/) tutorial from the United States Geological Survey
+- [Introductory R](http://swcarpentry.github.io/r-novice-inflammation/) tutorial from Software Carpentry
+- R tutorial for Reproducible Scientific Research](http://swcarpentry.github.io/r-novice-gapminder/) from Software Carpentry
 
 # General R-Spatial
 - Jamie Afflerbach's Spatial Analysis in R tutorials and [repo](https://github.com/jafflerbach/spatial-analysis-R)
 - Matt Strimas-Mackey's [blog](http://strimas.com/) for hands-on examples using new rspatial packages (e.g., sf and smoothr)
 - Jesse Sadler's [blog](https://www.jessesadler.com/) for applications of sf and sp
 - the upcoming textbook [Geocomputation with R](http://robinlovelace.net/geocompr/)
-- the [vignettes](https://cran.r-project.org/web/packages/sf/) of the `sf` package
-- the [r-spatial blog & website](http://r-spatial.org/) for the latest news from the r-spatial community
-- [Applied Spatial Data Analysis with R](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf) (textbook on spatial data analysis)
-- CRAN Task View: [Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)
+- The [vignettes](https://cran.r-project.org/web/packages/sf/) of the `sf` package
+- The [r-spatial blog & website](http://r-spatial.org/) for the latest news from the r-spatial community
+- [Applied Spatial Data Analysis with R](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf) a textbook on spatial data analysis
 - Edward Rubin's materials on [Spatial Data in R](http://edrub.in/ARE212/section12.html) from UC Berkeley's ARE 212 course
 - [Can geographic data save the world?](http://www.robinlovelace.net/2017/05/02/can-geographic-data-save-the-world/) by Robin Lovelace
 
@@ -28,6 +27,7 @@ For those interested in further tutorials or resources for spatial data analysis
 - [Mapview](https://github.com/r-spatial/mapview): interactive viewing of spatial data in R
 - [tmap](https://github.com/mtennekes/tmap): thematic maps in R
 - [ggplot dev version::geom_sf()](http://ggplot2.tidyverse.org/reference/ggsf.html)--visualise sf objects
+- CRAN task view [Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html) includes a list of all spatial data analysis packages for R on CRAN
 
 # People to follow
 
@@ -57,3 +57,4 @@ For those interested in further tutorials or resources for spatial data analysis
 - [tigris](https://github.com/walkerke/tigris): Download and use Census TIGER/Line shapefiles in R
 - state/municipal geospatial commons (ex. [MN Geopatial Commons](https://gisdata.mn.gov/))
 - [GIS section of Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#gis)
+- United States Geological Survey [spatial data](https://www.usgs.gov/products/data-and-tools/gis-data)
