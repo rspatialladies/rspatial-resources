@@ -7,6 +7,9 @@ For those interested in further tutorials or resources for spatial data analysis
 - [Rstudio Cheatsheets!](https://www.rstudio.com/resources/cheatsheets/) 
 - the [Tidyverse website/blog](https://www.tidyverse.org/articles/) for the latest news from the tidyverse
 - [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by Claus O. Wilke
+- [United States Geological Survey R Tutorial](https://owi.usgs.gov/R/training-curriculum/intro-curriculum/)
+- [Software Carpentry Programming with R Tutorial](http://swcarpentry.github.io/r-novice-inflammation/)
+- [Software Carpentry R Programming for Reproducible Scientific Research](http://swcarpentry.github.io/r-novice-gapminder/)
 
 # General R-Spatial
 - Jamie Afflerbach's Spatial Analysis in R tutorials and [repo](https://github.com/jafflerbach/spatial-analysis-R)
@@ -26,7 +29,7 @@ For those interested in further tutorials or resources for spatial data analysis
 - [tmap](https://github.com/mtennekes/tmap): thematic maps in R
 - [ggplot dev version::geom_sf()](http://ggplot2.tidyverse.org/reference/ggsf.html)--visualise sf objects
 
-# People to follow 
+# People to follow
 
 # Some Resources for Movement Ecology
 - [Movement Ecology in R workshop](http://danaseidel.com/MovEco-R-Workshop/) given at Hong Kong University in January 2018, is a brief overview walking students from R basics through home range analysis, analyzing GPS movement data, to spatial simulation in R. 
