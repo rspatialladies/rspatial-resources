@@ -9,7 +9,7 @@ For those interested in further tutorials or resources for spatial data analysis
 - [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by Claus O. Wilke
 - [Introduction to R](https://owi.usgs.gov/R/training-curriculum/intro-curriculum/) tutorial from the United States Geological Survey
 - [Introductory R](http://swcarpentry.github.io/r-novice-inflammation/) tutorial from Software Carpentry
-- R tutorial for Reproducible Scientific Research](http://swcarpentry.github.io/r-novice-gapminder/) from Software Carpentry
+- R tutorial for [Reproducible Scientific Research](http://swcarpentry.github.io/r-novice-gapminder/) from Software Carpentry
 
 # General R-Spatial
 - Jamie Afflerbach's Spatial Analysis in R tutorials and [repo](https://github.com/jafflerbach/spatial-analysis-R)
