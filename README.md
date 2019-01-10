@@ -21,6 +21,7 @@ For those interested in further tutorials or resources for spatial data analysis
 - [Applied Spatial Data Analysis with R](http://gis.humboldt.edu/OLM/r/Spatial%20Analysis%20With%20R.pdf) a textbook on spatial data analysis
 - Edward Rubin's materials on [Spatial Data in R](http://edrub.in/ARE212/section12.html) from UC Berkeley's ARE 212 course
 - [Can geographic data save the world?](http://www.robinlovelace.net/2017/05/02/can-geographic-data-save-the-world/) by Robin Lovelace
+- [Spatial Data Science](https://keen-swartz-3146c4.netlify.com/index.html) book in progress by Edzer Pebesma
 
 # Packages for mapping in R
 - [Leaflet](https://rstudio.github.io/leaflet/): R interface to leaflet maps
@@ -30,6 +31,7 @@ For those interested in further tutorials or resources for spatial data analysis
 - CRAN task view [Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html) includes a list of all spatial data analysis packages for R on CRAN
 
 # People to follow
+- [Steph Locke's list](https://itsalocke.com/blog/r-spatial-resources/) of R Spatial folks
 
 # Some Resources for Movement Ecology
 - [Movement Ecology in R workshop](http://danaseidel.com/MovEco-R-Workshop/) given at Hong Kong University in January 2018, is a brief overview walking students from R basics through home range analysis, analyzing GPS movement data, to spatial simulation in R. 
